@@ -1,0 +1,27 @@
+{
+  "config": {
+    "m": 1000,
+    "effect": 2.0,
+    "pi0_values": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "gamma_values": [
+      0.01,
+      0.001
+    ],
+    "tuning": 0.5,
+    "replicates": 1000,
+    "seed": 20261011
+  },
+  "elapsed_seconds": 2.2876959580462426,
+  "rows": 18000,
+  "alpha_capped_count": 0
+}
